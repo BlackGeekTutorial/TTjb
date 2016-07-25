@@ -34,5 +34,5 @@ iPad Pro (not supported in this version)<br />
 IPA Version: 1.0<br />
 executable's sha1: 25e0aa517a2696084e66ba22e4d3631daac7c3c5<br />
 Hosting: GitHub<br />
-Signed by: @iMokhles
+Signed by: @iMokhles<br />
 [CLICK HERE TO INSTALL](http://tinyurl.com/jxk64fj)<br />
