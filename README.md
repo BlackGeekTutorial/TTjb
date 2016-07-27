@@ -21,18 +21,17 @@ iPhone 6s Plus<br />
 iPhone 6<br />
 iPhone 6 Plus<br />
 iPhone 5s<br />
+iPad Pro<br />
 iPad Air 2<br />
 iPad Air 1<br />
 iPad Mini 4<br />
 iPad Mini 3<br />
 iPad Mini 2<br />
+iPod touch 6<br />
 <br />
-iPad Pro (NOT supported currently)<br />
-iPod touch 6 (NOT supported currently)<br />
-
 ## DOWNLOAD: <br />
-IPA Version: 1.0<br />
-executable's sha1: 25e0aa517a2696084e66ba22e4d3631daac7c3c5<br />
+IPA Version: 1.1<br />
+executable's sha1: 5fa3b4b5dc40e1779a78da15458c6926282a24c5<br />
 Hosting: GitHub<br />
 Signed by: @iMokhles<br />
 [CLICK HERE TO INSTALL](http://tinyurl.com/jxk64fj)<br />
