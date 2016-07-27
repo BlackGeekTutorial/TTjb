@@ -26,13 +26,12 @@ iPad Air 1<br />
 iPad Mini 4<br />
 iPad Mini 3<br />
 iPad Mini 2<br />
-<br />
-iPod touch 6 (not supported in this version)<br />
-iPad Pro (not supported in this version)<br />
+iPad Pro<br />
+iPod touch 6<br />
 
 ## DOWNLOAD: <br />
-IPA Version: 1.0<br />
+IPA Version: 1.1<br />
 executable's sha1: 25e0aa517a2696084e66ba22e4d3631daac7c3c5<br />
 Hosting: GitHub<br />
-Signed by: @iMokhles<br />
+Signed by: Totoateam<br />
 [CLICK HERE TO INSTALL](http://tinyurl.com/jxk64fj)<br />
